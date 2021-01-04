@@ -1,0 +1,10 @@
+{
+    "emmet.includeLanguages": {
+        "edge": "html"
+    },
+    "emmet.excludeLanguages": [
+
+        "markdown"
+    ],
+    "emmet.extensionsPath": ""
+}
